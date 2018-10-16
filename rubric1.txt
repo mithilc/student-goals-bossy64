@@ -1,6 +1,6 @@
-Name:
-Period:
-School year: 20__ - 20__
+Name: Aniket Desarkar	
+Period: 5
+School year: 2018 - 2019
 
 
 Directions:
@@ -16,12 +16,12 @@ Directions:
 
 BEGIN WRITING HERE
 
-Goal 1: COPY AND PASTE GOAL
+Goal 1: Get an A and a 5 on the AP test by coming to tutorials if I need help and doing all the readings on time
 
 Rubric:
-- 4:
-- 3:
-- 2:
-- 1:
+- 4: Accomplish both the “A” and the “5”
+- 3: Only get an “A” and not the “5” (and vice versa) because I didn’t do one of the listed things
+- 2: Get neither but still do some of the listed things
+- 1: Get neither and don’t do any of the listed things.
 
 

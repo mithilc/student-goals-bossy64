@@ -16,12 +16,11 @@ Directions:
 
 BEGIN WRITING HERE
 
-Goal 2: COPY AND PASTE GOAL
-
+Goal 2:Be able to help people on Piazza
 Rubric:
-- 4:
-- 3:
-- 2:
-- 1:
+- 4: Help at least 5 people with issues because I actually understand whats happening.
+- 3: Help 3 people b/c I understand the concept or help people without understanding what I’m doing
+- 2: Not help anyone but still go to Mr. Wang if I don’t know the answer to some of the questions on Piazza.
+- 1: Not helping or even checking Piazza 
 
 
